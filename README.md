@@ -1,2 +1,2 @@
 # testrepo
-Unce upon a time there was a big red mushroom.
+Once upon a time there was a big red mushroom.
